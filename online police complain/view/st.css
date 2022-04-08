@@ -1,0 +1,189 @@
+*body{
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+
+header{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background: #131B43;
+  height: 123px;
+   /* background:linear-gradient(120deg,#101056 30%,#28a4c9,#0b1284,#28a4c9,#ffffff);*/
+}
+
+ 
+
+#div1{
+    color:white;
+    text-align: center;
+    font-size: 35px;
+}
+#div2{
+    color:white;
+    text-align: center;
+    font-size: medium;
+
+}
+span {
+    border-bottom: 2px solid blue;
+    font-size: 40px;
+    font-weight: 200;
+ 
+  }
+ 
+
+ul {
+  list-style-type:none;
+  margin-top: 5px;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+  background-color:#ff2f6c;
+  
+   
+   
+}
+
+li {
+  float: left;
+   
+   
+}
+
+li a {
+  display:inline-flex;
+  padding: 8px;
+   
+  text-decoration: none;
+  color: white;
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: center;
+  font-size: 18.1px;
+   
+}
+
+li.right {
+    float: right;
+}
+
+a:hover {
+    background:linear-gradient(120deg,#101056 30%,#28a4c9,#0b1284,#28a4c9,#ffffff);
+  }
+ 
+ 
+  
+  
+ 
+  .about-section {
+     
+    padding: 10px 10px 20px 2px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+    position:fixed;
+    bottom:0;
+    width:98%;
+   height:50px; 
+    
+  }
+  a{
+      text-decoration: none;
+      color: white;
+  }
+
+  .button2 {
+    background-color:#ff2f6c;
+
+    font-size: larger;
+     
+    color:white; 
+    border: 2px solid #008CBA;
+  }
+  
+  .button2:hover {
+    background:linear-gradient(120deg,#101056 30%,#28a4c9,#0b1284,#28a4c9,#ffffff);
+    color: white;
+  }
+
+  
+  .button3 {
+    background-color:#ff2f6c;
+
+    font-size: larger;
+     
+    color:white; 
+    border: 2px solid #008CBA;
+    float: left;
+    padding: 7px 15px;
+  }
+  
+  .button3:hover {
+    background:linear-gradient(120deg,#101056 30%,#28a4c9,#0b1284,#28a4c9,#ffffff);
+    color: white;
+  }
+
+  
+
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Style inputs */
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    float:right;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+
+  .column {
+    float: center;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+  }
+
+
+
+  
+ 
+  
+
+/* st.css | http://localhost/labtask/fromGroupMember/hriday/midproject/st.css */
+
+header {
+  /* background: linear-gradient(120deg,#101056 30%,#28a4c9,#0b1284,#28a4c9,#ffffff); */
+  
+}
+
+.about-section {
+  /* background-color: #474e5d; */
+  background-color: #131B43;
+}
+
+.button2 {
+  /* background-color: #ff2f6c; */
+  background-color: #9B0F22;
+}
+
+/* st.css | http://localhost/midProject/view/st.css */
+

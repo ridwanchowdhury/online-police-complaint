@@ -1,0 +1,367 @@
+
+
+body > div:nth-child(1) {
+  background: #131B43;
+  font-color: white;
+  margin-top: 0px;
+  padding-top: 25px;
+  font-optical-sizing: auto;
+  color: white;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin: -8px;
+  padding-left: ;
+  padding-bottom: 8px;
+}
+
+.center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 10px 10px 15px rgba(0,0,0,0.05);
+}
+
+
+body > div:nth-child(1) > h1:nth-child(2) {
+  font-color: white;
+  font-color: #FFFFFF;
+}
+
+
+
+body > div:nth-child(1) > h1:nth-child(2) > center:nth-child(1) {
+  font-color: white';;
+  font-color: white;
+}
+
+
+
+body > div:nth-child(1) > h3:nth-child(6) {
+  margin-left: 700px;
+}
+
+
+
+
+/* Element | http://localhost/labtask/fromGroupMember/try.php */
+
+body > div:nth-child(1) {
+  width: 100%;
+}
+
+/* Element | http://localhost/labtask/fromGroupMember/try.php */
+
+.content {
+  margin-top: 10px;
+}
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+html,body{
+  height: 100%;
+}
+body{
+  display: grid;
+  place-items: center;
+  background: white;
+  text-align: center;
+}
+.content{
+  width: 330px;
+  padding: 40px 30px;
+  background: #E8EEF9;
+  border-radius: 10px;
+  box-shadow: -3px -3px 7px #ffffff73,
+               2px 2px 5px rgba(94,104,121,0.288);
+}
+.content .text{
+  font-size: 33px;
+  font-weight: 600;
+  margin-bottom: 35px;
+  color: #060813;
+}
+.field{
+  height: 50px;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+.field:nth-child(2){
+  margin-top: 20px;
+}
+.field input{
+  height: 100%;
+  width: 100%;
+  padding-left: 45px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  background: white;
+  color: #060813;
+  border-radius: 25px;
+  
+}
+.field input:focus{
+  box-shadow: inset 1px 1px 2px #BABECC,
+              inset -1px -1px 2px #ffffff73;
+}
+.field span{
+  position: absolute;
+  color: #595959;
+  width: 50px;
+  line-height: 50px;
+}
+.field label{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 45px;
+  pointer-events: none;
+  color: #666666;
+}
+.field input:valid ~ label{
+  opacity: 0;
+}
+.forgot-pass{
+  text-align: center;
+  margin: 10px 0 10px 5px;
+}
+.forgot-pass a{
+  font-size: 16px;
+  color: #3498db;
+  text-decoration: none;
+}
+.forgot-pass:hover a{
+  text-decoration: underline;
+}
+input{
+  margin: 15px 0;
+  width: 100%;
+  height: 50px;
+  font-size: 18px;
+  line-height: 50px;
+  font-weight: 600;
+  background: #4476DD;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #FDFEFF;
+  box-shadow: 2px 2px 5px #BABECC,
+             -5px -5px 10px #ffffff73;
+}
+input:focus{
+  color: #3498db;
+  box-shadow: inset 2px 2px 5px #BABECC,
+             inset -5px -5px 10px #ffffff73;
+}
+.sign-up{
+  margin: 10px 0;
+  color: #595959;
+  font-size: 16px;
+}
+.sign-up a{
+  color: #3498db;
+  text-decoration: none;
+}
+.sign-up a:hover{
+  text-decoration: underline;
+}
+
+
+/* Inline #0 | http://localhost/midProject/view/login.php */
+
+.content {
+  /* margin-top: -45px; */
+  margin-top: -50px;
+}
+
+
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.content > form:nth-child(2) > input:nth-child(3) {
+  margin-top: 35px;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+div.field:nth-child(2) {
+  text-align: center;
+}
+
+
+/* Inline #1 | http://localhost/midProject/view/login.php */
+
+body > footer:nth-child(6) {
+  /* margin-left: -98%; */
+  margin-left: 0%;
+  width: 100%;
+  margin-top: -120px;
+}
+
+/* Inline #0 | http://localhost/midProject/view/login.php */
+
+.content {
+  /* margin-top: -50px; */
+  margin-top: 42px;
+}
+
+
+.about-section {
+     
+    padding: 10px 10px 20px 2px;
+    text-align: center;
+    background-color: #131B43;
+    color: white;
+    position:relative;
+    bottom:0;
+    width:98%;
+   height:50px; 
+    
+  }
+  a{
+      text-decoration: none;
+      color: white;
+  }
+
+  .button2 {
+    background-color:#9B0F22;
+
+    font-size: larger;
+     
+    color:white; 
+    border: 2px solid #131B43;
+  }
+  
+  .button2:hover {
+    background:#131B43
+    color: white;
+  }
+ 
+	
+/* Element | http://localhost/midProject/view/login.php */
+
+body > footer:nth-child(6) {
+  margin-left: -98%;
+  position: relative;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.about-section {
+  margin-top: -20%;
+  margin-bottom: 0px;
+  height: 104px;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+button.button2:nth-child(2) {
+  /* width: 126px; */
+  width: 10%;
+  margin-top: -17px;
+  padding-top: -27px;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+button.button2:nth-child(3) {
+  width: 10%;
+  margin-top: 17px;
+  margin-left: 24px;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.about-section {
+  width: 100%;
+  margin-left: -15px;
+}
+
+
+/* Element | http://localhost/midProject/view/aboutus.php */
+
+.about-section {
+  margin-top: 10%;
+  margin-left: -7px;
+}
+
+
+
+/* Element | http://localhost/midProject/view/login.php */
+
+body > div:nth-child(3) {
+  width: 1526px;
+  margin-top: -130px;
+  margin-right: -11px;
+}
+
+
+
+.forgot-pass{
+
+}
+.sign-up{
+
+}
+
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.forgot-pass > a:nth-child(1) {
+  position: absolute;
+  left: 710px;
+  top: 490px;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.sign-up {
+  position: absolute;
+  left: 750px;
+  top: 505px;
+}
+
+
+
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.checkbox {
+  margin: auto;
+  width: 27px;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.checkbox > p:nth-child(1) > input:nth-child(1) {
+  margin-left: -209px;
+  padding-top: -72px;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.police {
+  position: relative;
+  margin-top: -50px;
+  margin-left: -90px;
+}
+
+/* Element | http://localhost/midProject/view/login.php */
+
+.forgot-pass {
+  margin-top: 37px;
+}
